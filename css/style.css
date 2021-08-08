@@ -68,7 +68,13 @@ li{
   width: 639px;
   height: 215px;
   left: 681px;
-	top: 350px;
+	top: 237px;
+
+	font-family: Fahkwang;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 39px;
 
  }
 
@@ -77,15 +83,18 @@ li{
   width: 440.88px;
   height: 623px;
   left: 120.06px;
-  top: 146px;
+  top: 116px;
  	background: #121212;
   box-shadow: 0px 37.9415px 53.1181px -22.7649px rgba(0, 0, 0, 0.2);
   border-radius: 7.58831px;
  }
 
-h1{
-	font-size: 40px;
-	color: #09090E;
+.myname{
+	font-family: Fahkwang;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	line-height: 42px;
 }
 .rahim {
 	margin-left: 0;
